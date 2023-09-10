@@ -1,0 +1,203 @@
+{
+  "workspaces": [
+    {
+      "id": 1,
+      "name": "My workspaces"
+    },
+    {
+      "id": 2,
+      "name": "My Workspaces"
+    },
+    {
+      "id": 4,
+      "name": "Testing"
+    },
+    {
+      "id": 5,
+      "name": "Test"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": 1,
+      "name": "Quiz 1",
+      "workspace_id": 1,
+      "created_at": "10/09/2023",
+      "updated_at": "20/09/2023"
+    },
+    {
+      "id": 2,
+      "name": "Quiz 2",
+      "workspace_id": 1,
+      "created_at": "10/09/2023",
+      "updated_at": "20/09/2023"
+    },
+    {
+      "id": 3,
+      "name": "Quiz 3",
+      "workspace_id": 2,
+      "created_at": "10/09/2023",
+      "updated_at": "20/09/2023"
+    },
+    {
+      "id": 4,
+      "name": "Quiz 4",
+      "workspace_id": 2,
+      "created_at": "10/09/2023",
+      "updated_at": "10/09/2023"
+    },
+    {
+      "id": 5,
+      "name": "Quiz 5",
+      "workspace_id": 2,
+      "created_at": "10/09/2023",
+      "updated_at": "10/09/2023"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which ones are in css frameworks ?",
+      "options": [
+        {
+          "id": 1,
+          "option": "React"
+        },
+        {
+          "id": 2,
+          "option": "TailwindCSS"
+        },
+        {
+          "id": 3,
+          "option": "Vite"
+        },
+        {
+          "id": 4,
+          "option": "Vue"
+        }
+      ],
+      "answer_key": 1,
+      "quiz_id": 1
+    },
+    {
+      "id": 6,
+      "question": "Your question in here",
+      "quiz_id": 1,
+      "options": [
+        {
+          "id": 1,
+          "option": "Option 1"
+        },
+        {
+          "id": 2,
+          "option": "Option 2"
+        },
+        {
+          "id": 3,
+          "option": "Option 3"
+        },
+        {
+          "id": 4,
+          "option": "Option 4"
+        }
+      ],
+      "answer_key": 1
+    },
+    {
+      "id": 7,
+      "question": "Your question in here",
+      "quiz_id": 1,
+      "options": [
+        {
+          "id": 1,
+          "option": "Option 1"
+        },
+        {
+          "id": 2,
+          "option": "Option 2"
+        },
+        {
+          "id": 3,
+          "option": "Option 3"
+        },
+        {
+          "id": 4,
+          "option": "Option 4"
+        }
+      ],
+      "answer_key": 1
+    },
+    {
+      "id": 9,
+      "question": "Your question in here",
+      "quiz_id": 3,
+      "options": [
+        {
+          "id": 1,
+          "option": "Option ku"
+        },
+        {
+          "id": 2,
+          "option": "Option 2"
+        },
+        {
+          "id": 3,
+          "option": "Option 3"
+        },
+        {
+          "id": 4,
+          "option": "Option 4"
+        }
+      ],
+      "answer_key": 1
+    },
+    {
+      "id": 10,
+      "question": "Your question in here",
+      "quiz_id": 2,
+      "options": [
+        {
+          "id": 1,
+          "option": "Option 1"
+        },
+        {
+          "id": 2,
+          "option": "Option 2"
+        },
+        {
+          "id": 3,
+          "option": "Option 3"
+        },
+        {
+          "id": 4,
+          "option": "Option 4"
+        }
+      ],
+      "answer_key": 1
+    },
+    {
+      "id": 11,
+      "question": "Your question in here",
+      "quiz_id": 4,
+      "options": [
+        {
+          "id": 1,
+          "option": "Option 1"
+        },
+        {
+          "id": 2,
+          "option": "Option 2"
+        },
+        {
+          "id": 3,
+          "option": "Option 3"
+        },
+        {
+          "id": 4,
+          "option": "Option 4"
+        }
+      ],
+      "answer_key": 1
+    }
+  ]
+}
